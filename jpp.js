@@ -34,8 +34,8 @@
 			this.$e.css('display','block')
 		},
 		destroy:function(){
-			$.data(this.$e[0],'plugin-' + pName,null);
-			$.removeData(this.$e[0],'plugin-' + pName);
+			$.data(this.$e[0],'plugin-' + defs.name,null);
+			$.removeData(this.$e[0],'plugin-' + defs.name);
 		}
 	}
 
