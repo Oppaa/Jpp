@@ -3,7 +3,8 @@
   'use strict';
 
   var defs = {
-    name:"Orz"
+    name:"Orz,"
+    test:'ok'
   }
 
   $.fn[pName]=function(options,value){
