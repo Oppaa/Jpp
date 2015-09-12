@@ -2,7 +2,8 @@
   
   var defs = {
     name:"Orz,"
-    test:'ok'
+    test:'ok',
+    https:'ok'
   }
 
   $.fn[pName]=function(options,value){
