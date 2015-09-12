@@ -1,7 +1,5 @@
 ;(function($,win,undefined){
   
-  'use strict';
-
   var defs = {
     name:"Orz,"
     test:'ok'
