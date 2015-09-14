@@ -3,7 +3,8 @@
   var defs = {
     name:"Orz,"
     test:'ok',
-    https:'ok'
+    https:'ok',
+    vim:'ok'
   }
 
   $.fn[pName]=function(options,value){
