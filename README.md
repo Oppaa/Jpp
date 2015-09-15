@@ -3,4 +3,5 @@ Jpp
 
 jQuery plugin patterns
 
-for vim2
+for vim2 https
+
