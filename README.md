@@ -3,4 +3,4 @@ Jpp
 
 jQuery plugin patterns
 
-for vim
+for vim2
