@@ -3,4 +3,4 @@ Jpp
 
 jQuery plugin patterns
 
-no ssh
+no ssh iop
